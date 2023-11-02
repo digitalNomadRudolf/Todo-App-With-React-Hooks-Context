@@ -1,3 +1,12 @@
+# This TODO App is a work in progress:
+
+# Upcoming:
+
+Adding Todos
+User Preferences
+Styles
+Tests
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
